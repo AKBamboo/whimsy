@@ -9,7 +9,7 @@
 <!-- ideas:start -->
 | 日期 | 想法 | 状态 | 标签 |
 | --- | --- | --- | --- |
-| 2026-10-20 | [南京 2026 太阳位置计算器](ideas/2026-10-20-nanjing-solar-2026.md) | ✅ done | `地理` `太阳视运动` `Python` `天文` `计算` |
+| 2026-10-20 | [南京 2026 太阳位置计算器](ideas/2026-10-20-nanjing-solar-2026.md) | ✅ done | `地理` `太阳视运动` `南京` `Python` `天文` `题目` |
 <!-- ideas:end -->
 
 > 状态：🌱 seed 种子 · 🔭 exploring 调研中 · 🛠️ building 建设中 · ✅ done 已实现 · 🧊 shelved 搁置
