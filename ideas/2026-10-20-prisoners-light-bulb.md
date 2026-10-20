@@ -75,8 +75,6 @@ spark: 一个计数器加一盏灯，让 100 个囚徒平均约 1 万次审讯�
 
 ## 程序与结果
 
-直接放在本仓库里（不另开仓库）：
-
 - `projects/prisoners-light-bulb/prisoners_light_bulb.py` — 计数器协议的蒙特卡洛模拟（n=100，100 次，seed=42）
 - `projects/prisoners-light-bulb/simulation_results.csv` — 每次实验所需的审问次数
 - `projects/prisoners-light-bulb/fixed_time_survival.py` — 固定 T 次宣布的存活概率（容斥精确值 + 蒙特卡洛）
